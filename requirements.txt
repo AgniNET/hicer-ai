@@ -1,0 +1,6 @@
+requests
+python-telegram-bot
+transformers
+accelerate
+torch
+sentencepiece
